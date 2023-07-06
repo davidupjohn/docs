@@ -52,7 +52,7 @@ able to all users.
 
 #### Highlight
 
-A style component used to highlight a piece of text or a link on a page so it stands out.
+A style component is used to highlight a piece of text or a link on a page so it stands out.
 
 ![Screenshot from 2021-09-21 17-15-01](https://user-images.githubusercontent.com/3852805/134211927-f9dadb28-dded-4f83-a040-1c6fcdbdd2fd.png)
 
@@ -77,7 +77,7 @@ Limit contact information to service name, email address, telephone number and p
 
 Use generic email addresses where possible – for example: parking@council.gov.uk rather than the email address of a named member of staff.
 
-Always write out the email address instead of writing 'Contact the parking team' and making that the email link. By writing out the email address, you are making it easier for the user by letting them know the full email address. 
+Always write out the email address instead of writing 'Contact the parking team' and make that the email link. By writing out the email address, you are making it easier for the user by letting them know the full email address. 
 
 ### Contact details in emergencies
 Use a callout paragraph for contact details in emergencies. Use this when you need to bring it to the user's attention as the first action they should take if someone is in danger or is breaking the law. Use these sparingly.
@@ -93,13 +93,13 @@ You should use the contact component, if:
 
 If the contact details are integral to the content you are writing, you should add contact details inline.
 
-#### Adding in a contact component to a page
-You can only a the component in a standard page.
+#### Adding a contact component to a page
+You can only add the component in a standard page.
 
-To add the component in a standard page, you should select 'Add/Select component' below the text editor in the backend the site. You will then be able to search and insert, or create a new contact component, into the page.
+To add the component to a standard page, you should select 'Add/Select component' below the text editor in the backend the site. You will then be able to search and insert, or create a new contact component, into the page.
 
 #### Referring to contact details on a page
-Do not use phases like 'Use the contact details at the bottom of the page'. This is not accessible for screen readers and people who have reading difficulties, for example dyslexia. Instead, you should insert the contact details inline and where it is needed on the page.
+Do not use phrases like 'Use the contact details at the bottom of the page'. This is not accessible for screen readers and people who have reading difficulties, for example dyslexia. Instead, you should insert the contact details inline and where it is needed on the page.
 
 Example of contact components in use
 
